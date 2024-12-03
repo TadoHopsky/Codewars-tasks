@@ -9,7 +9,7 @@
 
 | День   | Задача | Уровень  | Решение |
 |--------|--------|----------|---------|
-| Day 1  | [BeginnerSeries2Clock](#) | 🟢 8 kyu | [Решение](https://github.com/TadoHopsky/Codewars-tasks/blob/master/BeginnerSeries2Clock.java](https://github.com/TadoHopsky/Codewars-tasks/blob/master/tasks/day1/BeginnerSeries2Clock.java)) |
+| Day 1  | [BeginnerSeries2Clock](#) | 🟢 8 kyu | [Решение](https://github.com/TadoHopsky/Codewars-tasks/blob/master/tasks/day1/BeginnerSeries2Clock.java) |
 | Day 2  | [Task Name](#) | 🔵 6 kyu | [Решение](./day2/solution.java) |
 | ...    | ...    | ...      | ...     |
 
