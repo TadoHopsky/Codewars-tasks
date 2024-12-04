@@ -7,11 +7,11 @@
 
 ## 📅 Прогресс
 
-| День   | Задача | Уровень  | Решение |
-|--------|--------|----------|---------|
-| Day 1  | [BeginnerSeries2Clock](#) | 🟢 8 kyu | [Решение](https://github.com/TadoHopsky/Codewars-tasks/blob/master/tasks/day1/BeginnerSeries2Clock.java) |
-| Day 2  | [Task Name](#) | 🔵 6 kyu | [Решение](./day2/solution.java) |
-| ...    | ...    | ...      | ...     |
+| День  | Задача | Уровень  | Решение |
+|-------|-----|----------|------|
+| Day 1 | [BeginnerSeries2Clock](#) | 🟢 8 kyu | [Решение](https://github.com/TadoHopsky/Codewars-tasks/blob/master/tasks/day1/BeginnerSeries2Clock.java) |
+| Day 2 | [Task Name](#) | 🔵 7 kyu | [Решение](./day2/solution.java) |
+| Day 3 | [SumArrays](#)    | 🔵 7 kyu | [Решение](tasks/day3/SumArrays.java)     |
 
 ---
 ## 🧑‍💻 Почему я это делаю?
