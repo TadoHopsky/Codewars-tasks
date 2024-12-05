@@ -10,9 +10,10 @@
 | День  | Задача | Уровень  | Решение |
 |-------|-----|----------|------|
 | Day 1 | [BeginnerSeries2Clock](#) | 🟢 8 kyu | [Решение](https://github.com/TadoHopsky/Codewars-tasks/blob/master/tasks/day1/BeginnerSeries2Clock.java) |
-| Day 2 | [CalculateBMI](#) | 🔵 7 kyu | [Решение](tasks/day2/CalculateBMI.java) |
+| Day 2 | [CalculateBMI](#) | 🔵 8 kyu | [Решение](tasks/day2/CalculateBMI.java) |
 | Day 3 | [SumArrays](#)    | 🔵 7 kyu | [Решение](tasks/day3/SumArrays.java)     |
 | Day 4 | [KeepUpTheHoop](#)    | 🔵 7 kyu | [Решение](tasks/dey4/KeepUpTheHoop.java)     |
+| Day 5 | [TheSupermarketQueue](#)    | 🔵 7 kyu | [Решение](tasks/day5/TheSupermarketQueue.java)     |
 
 ---
 ## 🧑‍💻 Почему я это делаю?
@@ -25,4 +26,14 @@
 - Решить 30 задач подряд.
 - Улучшить рейтинг на Codewars.
 - Делать красивый и читабельный код.
+
+
+
+
+
+
+
+
+
+
 
