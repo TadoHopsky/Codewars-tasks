@@ -17,9 +17,10 @@ public class TheSupermarketQueue {
 
     public static boolean  isIsogram(String str) {
         String lowerCaseWord = str.toLowerCase();
-        long uniqLetter = lowerCaseWord.chars()
-                .distinct()
-                .count();
+        long uniqLetter = lowerCaseWord
+                .chars()                                  // Преобразуем строку в поток символов.
+                .distinct()                               // Убираем все повторяющиеся символы.
+                .count();                                 // Считаем количество уникальных символов.
 
         return str.length() == uniqLetter;
     }
