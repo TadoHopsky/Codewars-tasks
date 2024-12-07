@@ -14,6 +14,7 @@
 | Day 3 | [SumArrays](#)    | 🔵 7 kyu | [Решение](tasks/day3/SumArrays.java)     |
 | Day 4 | [KeepUpTheHoop](#)    | 🔵 7 kyu | [Решение](tasks/dey4/KeepUpTheHoop.java)     |
 | Day 5 | [TheSupermarketQueue](#)    | 🔵 7 kyu | [Решение](tasks/day5/TheSupermarketQueue.java)     |
+| Day 6 | [SquareSum](#)    | 🟢 8 kyu | [Решение](tasks/day6/SquareSum.go)     |
 
 ---
 ## 🧑‍💻 Почему я это делаю?
